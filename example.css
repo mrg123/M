@@ -8,3 +8,4 @@ body{background-color:#fbf9fe;}
 /* override */
 #bottom_nav{position:fixed;}
 #search_show {margin-top:0;display:none;}
+.weui_article * {max-widht:100%;box-sizing:border-box;word-wrap:break-word;}
